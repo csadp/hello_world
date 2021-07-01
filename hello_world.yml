@@ -7,6 +7,4 @@ image_resource:
 
 run:
   path: echo
-  args: [hello world]
-  path: echo
-  args: [please work :D]
+  args: [hello world , has it worked? :D]
